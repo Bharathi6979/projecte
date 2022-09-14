@@ -1,0 +1,24 @@
+.bdi{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    padding: 30px;
+}
+.con{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.bh{
+    background-color: palevioletred;
+    
+}
+.bt{
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+}

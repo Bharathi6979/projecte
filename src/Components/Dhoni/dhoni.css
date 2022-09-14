@@ -1,0 +1,14 @@
+.cards {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.title{
+    padding: 2px 16px;
+}
+.img {
+    border-radius: 5px 5px 0 0;
+  }
+  
+  
+  
